@@ -143,7 +143,14 @@ footer p{
     color: #000;
 }
 
-
+.footer-bg{
+    background-color: #2d25a0;
+    padding: 30px;
+    margin-top: 20px;
+}
+.footer-bg p{
+    color: #FFFFFF;
+}
 
 /* Tablet devices */
 @media only screen and (min-width: 768px) and (max-width: 992px){
